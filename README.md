@@ -1,5 +1,12 @@
 # YouTube RAG Chatbot
 
+![Demo](screenshots/chatbot_answer.png)
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--Mini-black)
+![FAISS](https://img.shields.io/badge/VectorDB-FAISS-orange)
+
 A Retrieval-Augmented Generation (RAG) chatbot that answers user questions based on the transcript of a YouTube video. The project extracts video transcripts, converts them into embeddings, stores them in a FAISS vector database, retrieves the most relevant transcript chunks, and generates accurate answers using OpenAI's GPT-4o Mini model.
 
 ## Features
