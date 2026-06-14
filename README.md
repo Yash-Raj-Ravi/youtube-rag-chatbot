@@ -76,23 +76,14 @@ Final Answer
 
 ## Screenshots
 
-### Question Answering
+<h3>Question Answering</h3>
+<img src="screenshots/chatbot_answer.png" width="900">
 
-![Chatbot Answer](screenshots/chatbot_answer.png)
+<h3>Retrieval Step</h3>
+<img src="screenshots/retrieval.png" width="900">
 
-*Example of the chatbot answering questions using retrieved transcript context.*
-
-### Retrieval Step
-
-![Retrieval](screenshots/retrieval.png)
-
-*Relevant transcript chunks retrieved from the FAISS vector database.*
-
-### Video Summarization
-
-![Summary](screenshots/summary.png)
-
-*Automatic summarization of video content using the complete RAG pipeline.*
+<h3>Video Summarization</h3>
+<img src="screenshots/summary.png" width="900">
 
 ## Installation
 
